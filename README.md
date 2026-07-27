@@ -155,19 +155,23 @@ These instructions were specifically written for CodeMint AI to ensure education
 
 ## 📸 Screenshots
 
-> **(Required by the assignment)**
-
 ### Landing Page
-
-![Landing Page](screenshots/landing.png)
+![Landing Page](public/screenshots/landing.png.jpg)
 
 ### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png.jpg)
 
 ### AI Mentor
+![AI Mentor](public/screenshots/mentor.png.jpg)
 
-![AI Mentor](screenshots/mentor.png)
+### Learning Roadmap
+![Learning Roadmap](public/screenshots/roadmap.png.jpg)
+
+### Daily Progress
+![Daily Progress](public/screenshots/daily.png.jpg)
+
+### User Profile
+![User Profile](public/screenshots/profile.png.jpg)
 
 ---
 
